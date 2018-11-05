@@ -1,10 +1,10 @@
 {
-  "name": "admin-lte",
+  "name": "bg-admin-lte",
   "version": "2.4.8",
   "main": "dist/js/adminlte.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/almasaeed2010/AdminLTE.git"
+    "url": "git://github.com/bluegroundltd/bg-admin-lte"
   },
   "license": "MIT",
   "devDependencies": {
