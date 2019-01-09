@@ -1540,6 +1540,9 @@ a:focus {
 .box.box-bg-blue {
   border-top-color: #264292;
 }
+.box.box-bg-light-grey {
+  border-top-color: #b7b7b3;
+}
 .box.box-primary {
   border-top-color: #4a9fe9;
 }
